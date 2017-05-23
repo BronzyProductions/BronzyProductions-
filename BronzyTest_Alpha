@@ -1,0 +1,22 @@
+#The Bronzy Test
+
+while True:
+    choice=input("Choose Your Character; Do you choose 'Stephen', 'Oisin', 'Christian', 'Bronzy' or 'Conor'.")
+
+    if choice == "Stephen":
+        print ("Congrats you picked Stephen a high leveled pilot and get away driver")
+        break
+    elif choice == "Christian":
+        print ("Congrats you picked Christian an incognito gunner and troller")
+        break
+    elif choice == "Oisin":
+        print ("WarBird not much else I can say")
+        break
+    elif choice == "Bronzy":
+        print ("You picked Bronzy...couldnt fucking resist could you??")
+        break
+    elif choice == "Conor":
+        print ("I'd like to talk shit about him but we have a contract")
+        break
+
+print ("Welcome to part 2: The Heist")
